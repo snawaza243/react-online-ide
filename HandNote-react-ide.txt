@@ -1,0 +1,17 @@
+|Browser  |  -->  POST /run (lang:'cpp', code:'#inc..")   -->  | NodeJS   | --> (exec)   -->  | System | 
+|reactive |  <--                                          <--  | Backend  | <-- (stdout) <--  | Shell  |
+
+
+
+in Backend dir all json and rest api backend server
+
+open backend dir in Integrated terminal
+npm init that init node js package that will auto create package.json 
+
+create index.js
+
+write js code and run in terminal with node index.js
+
+create rest api with express
+install express ad dependencies
+npm i --save express
